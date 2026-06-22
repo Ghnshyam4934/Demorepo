@@ -1,2 +1,2 @@
 print("Hello")
-print("today is monday")
+print("today is moday")
