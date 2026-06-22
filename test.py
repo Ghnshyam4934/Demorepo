@@ -1,2 +1,2 @@
 print("Hello")
-Print("today is $date")
+Print("today is monday")
